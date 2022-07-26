@@ -1,10 +1,10 @@
 ## Todo list on 5 common used frontend frameworks:
 
-- Angular
-- React
-- Vue
-- Svelte
-- Ember
+- [Angular](https://github.com/tphvtr/angular-todo)
+- [React](https://github.com/tphvtr/react-todo)
+- [Vue](https://github.com/tphvtr/vue-todo)
+- [Svelte](https://github.com/tphvtr/svelte-todo)
+- [Ember](https://github.com/tphvtr/ember-todo)
 
 --- | Angular* | Angular no exp. | React | Vue | Svelte | Ember
 --- | --- | --- | --- |--- |--- | ---
